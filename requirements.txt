@@ -1,8 +1,8 @@
-streamlit>=1.40
+streamlit
 tensorflow==2.17.0
-numpy>=1.26
-pandas>=2.2
-scikit-learn>=1.5
-matplotlib>=3.9
-openpyxl>=3.1
-joblib>=1.4
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+matplotlib==3.9.2
+openpyxl==3.1.5
+joblib==1.4.2
